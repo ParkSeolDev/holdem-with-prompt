@@ -1,0 +1,14 @@
+properties) numbers 1 - 1 - 1
+// 1칸 
+- horizontal
+- vertical
+- 1칸의 비율
+
+=======
+
+#
+
+components)
+- ingame
+- popup
+
