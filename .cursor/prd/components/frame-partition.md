@@ -35,8 +35,8 @@ properties) numbers 3 - 2 - 2 - 6 + 0 - 2 - 4
 =======
 
 #######
---------
-##|####
+- - - - -
+## | ####
 
 components)
 - chatting
