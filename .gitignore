@@ -2,4 +2,4 @@
 
 .cursor
 
-.lock
+Cargo.lock
